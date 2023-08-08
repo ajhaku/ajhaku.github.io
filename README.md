@@ -2,7 +2,7 @@
 Tänne tulee uutisia liittyen kyberturvallisuuteen Suomessa sekä maailmalla.
 
 # Venäjä ja Nato
-Varsinkin Ukrainan sodan alkaessa ja Suomen sekä Ruotsin aloittaessa liittymisprosessin Natoon on venäläisten tekemät kyberhyökkäykset
-lisääntyneet merkittävästi. 
+Varsinkin Ukrainan sodan alkaessa ja Suomen sekä Ruotsin aloittaessa liittymisprosessin Natoon on venäläisten aiheuttama
+kyberuhka on kasvanut merkittävästi. Edellä mainittua näkemystä tukee suojelupoliisin päällikön *Antti Peltarin* kolumni.
 
 
