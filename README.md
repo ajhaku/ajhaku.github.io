@@ -1,6 +1,6 @@
 
 Tänne tulee uutisia liittyen kyberturvallisuuteen Suomessa sekä maailmalla.
-## Venäjän tai venäjä mielisten ryhmien kyberhyökkäykset
+## Venäjän tai venäjämielisten ryhmien kyberhyökkäykset
 # Venäjä ja Nato
 
 
