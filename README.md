@@ -15,6 +15,9 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 ## Venäjä ja kyberhyökkäykset Suomeen
 Tiistaina 15. huhtikuuta 2014 - noin kaksi kuukautta Krimin valtaamisen jälkeen - uutisoitiin useilla uutissivuilla siitä ([MTV](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q), [Turun Sanomat](https://www.ts.fi/uutiset/619040)), miten kyberhyökkäysten määrä oli tuplaantunut maaliskuussa. 
 
+
+[Tiistaina 15. toukokuuta 2022](https://www.iltalehti.fi/kotimaa/a/d06a525e-9e3d-400f-b470-93f02d0af868) uutisoitiin venäjän Suomen sähköverkostoon kohdistamista kyberhyökkäyksistä.
+
 [Tiistaina 8. elokuuta 2022 Venäläinen hakkeriryhmä NoName057 suoritti kyberhyökkäyksen(16)](https://yle.fi/a/3-12569629). Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä.
 
 
