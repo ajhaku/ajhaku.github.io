@@ -22,6 +22,6 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 [Tiistaina 8. elokuuta 2022](https://yle.fi/a/3-12569629) Venäläinen hakkeriryhmä NoName057(16) suoritti kyberhyökkäyksen. Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä.
 
 ## Kyberhyökkäykset Suomessa
-Sunnuntaina 18. joulukuuta 2022 Säkylän kuntaan kohdistettiin kyberhyökkäys. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon. Hyökkääjä tahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen.
+[Sunnuntaina 18. joulukuuta 2022](https://alueviesti.fi/2023/02/02/kyberhyokkayksesta-arviolta-300-000-euron-lasku-sakylassa/) Säkylän kuntaan kohdistettiin kyberhyökkäys. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon. Hyökkääjä tahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen.
 
 
