@@ -16,9 +16,12 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 [Tiistaina 15. huhtikuuta 2014](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q) - noin kaksi kuukautta Krimin valtaamisen jälkeen - uutisoitiin useilla uutissivuilla siitä ([MTV](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q), [Turun Sanomat](https://www.ts.fi/uutiset/619040)), miten kyberhyökkäysten määrä oli tuplaantunut maaliskuussa. 
 
 
+
 [Tiistaina 15. toukokuuta 2022](https://www.iltalehti.fi/kotimaa/a/d06a525e-9e3d-400f-b470-93f02d0af868) uutisoitiin venäjän Suomen sähköverkostoon kohdistamista kyberhyökkäyksistä. Hyökkäykset olivat tietojenkalasteluyrityksiä, joista pieni osa oli kohdennettua tietojenkalastelua.
 
 [Tiistaina 8. elokuuta 2022](https://yle.fi/a/3-12569629) Venäläinen hakkeriryhmä NoName057(16) suoritti kyberhyökkäyksen. Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä.
 
+## Kyberhyökkäykset Suomessa
+Sunnuntaina 18. joulukuuta 2022 Säkylän kuntaan kohdistettiin kyberhyökkäys. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon. Hyökkääjä tahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen.
 
 
