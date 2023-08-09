@@ -1,7 +1,7 @@
 
 Tänne tulee uutisia liittyen kyberturvallisuuteen Suomessa sekä maailmalla.
-## Venäjän tai venäjämielisten ryhmien kyberhyökkäykset
-# Venäjä ja Nato
+# Venäjän tai venäjämielisten ryhmien kyberhyökkäykset
+## Venäjä ja Nato
 
 
 Varsinkin Ukrainan sodan alkaessa ja Suomen sekä Ruotsin aloittaessa liittymisprosessin Natoon on venäläisten aiheuttama
@@ -11,7 +11,7 @@ kyberuhka on kasvanut merkittävästi. Edellä mainittua näkemystä tukee suoje
 
 Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi. 
 
-# Venäjä ja kyberhyökkäykset Suomeen
+## Venäjä ja kyberhyökkäykset Suomeen
 
 [Tiistaina 8. elokuuta 2022 Venäläinen hakkeriryhmä NoName057 suoritti kyberhyökkäyksen(16)](https://yle.fi/a/3-12569629). Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä.
 
