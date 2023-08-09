@@ -13,7 +13,7 @@ Ukrainan presidentinvaaleja [toukokuussa 2014](https://www.europarl.europa.eu/Re
 Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi. 
 
 ## Venäjä ja kyberhyökkäykset Suomeen
-15. huhtikuuta uutisoitiin useilla uutissivuilla siitä ([MTV](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q), [Turun Sanomat](https://www.ts.fi/uutiset/619040)), miten kyberhyökkäysten määrä oli tuplaantunut. 
+Tiistaina 15. huhtikuuta 2014 - noin kaksi kuukautta Krimin valtaamisen jälkeen - uutisoitiin useilla uutissivuilla siitä ([MTV](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q), [Turun Sanomat](https://www.ts.fi/uutiset/619040)), miten kyberhyökkäysten määrä oli tuplaantunut. 
 
 [Tiistaina 8. elokuuta 2022 Venäläinen hakkeriryhmä NoName057 suoritti kyberhyökkäyksen(16)](https://yle.fi/a/3-12569629). Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä.
 
