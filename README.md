@@ -18,7 +18,7 @@ Tiistaina 15. huhtikuuta 2014 - noin kaksi kuukautta Krimin valtaamisen jälkeen
 
 [Tiistaina 15. toukokuuta 2022](https://www.iltalehti.fi/kotimaa/a/d06a525e-9e3d-400f-b470-93f02d0af868) uutisoitiin venäjän Suomen sähköverkostoon kohdistamista kyberhyökkäyksistä. Hyökkäykset olivat tietojenkalasteluyrityksiä, joista pieni osa oli kohdennettua tietojenkalastelua.
 
-[Tiistaina 8. elokuuta 2022](https://yle.fi/a/3-12569629) Venäläinen hakkeriryhmä NoName057 suoritti kyberhyökkäyksen. Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä.
+[Tiistaina 8. elokuuta 2022](https://yle.fi/a/3-12569629) Venäläinen hakkeriryhmä NoName057(16) suoritti kyberhyökkäyksen. Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä.
 
 
 
