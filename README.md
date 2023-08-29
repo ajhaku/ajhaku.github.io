@@ -26,6 +26,6 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 
 Hyökkäys toteutettiin juuri ennen sote-uudistuksen määräpäivää samalla, kun Säkylän ja Satakunnan hyvinvointialueen välisissä tietoverkkojen muutostyö oli kesken. Säkylän kunta tiedotti Facebook-sivuillaan hyökkäysestä aiheutuneen haitan olleen merkittävästi päättynyt perjantaina 30. joulukuuta 2022. 
 
-[!Säkylän kunnan tiedote kyberhyökkäysen jälkeen.](kuvat/Sakyla_kunta_tiedote.png)
+![Säkylän kunnan tiedote kyberhyökkäysen jälkeen.](kuvat/Sakyla_kunta_tiedote.png)
 
 
