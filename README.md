@@ -27,7 +27,7 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 
  Säkylän kunta tiedotti Facebook-sivuillaan hyökkäysestä aiheutuneen haitan olleen merkittävästi päättynyt perjantaina 30. joulukuuta 2022. Tämän tapauksen myötä muidenkin paikkakuntien, joissa sijaitsee varuskuntia - tai muulla tavalla maanpuolustuksen kannalta merkittävää infrastruktuuria - tulisi varautua vastaanvanlaisiin iskuihin.
 
-Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Mitään kuntalaisten tietoja ei tiettävästi vuotanut kolmansille osapuolille hyökkäyksen johdosta.
+Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Lisäksi kuntalaisten tietoja ei tiettävästi vuotanut kolmansille osapuolille hyökkäyksen johdosta.
 
 ![Säkylän kunnan tiedote kyberhyökkäysen jälkeen.](kuvat/Sakyla_kunta_tiedote.png)
 
