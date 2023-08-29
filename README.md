@@ -1,6 +1,5 @@
-
-Tänne tulee uutisia liittyen kyberturvallisuuteen Suomessa sekä maailmalla.
 # Kyberhyökkäykset 
+Tämän sivuston tarkoituksena on kerätä ensisijaisesti Suomeen kohdistuneita ja suomalaisessa mediassa uutisoituja kyberhyökkäyksiä. 
 ## Venäjä ja Nato
 
 
