@@ -1,5 +1,5 @@
 # Kyberhyökkäykset 
-Tämän sivuston tarkoituksena on kerätä ensisijaisesti Suomeen kohdistuneita ja suomalaisessa mediassa uutisoituja kyberhyökkäyksiä. 
+Tämän sivuston tarkoituksena on kerätä ensisijaisesti Suomeen kohdistuneita suomalaisessa mediassa uutisoituja kyberhyökkäyksiä. 
 
 ## NATO
 
