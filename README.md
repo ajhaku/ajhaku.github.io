@@ -24,4 +24,6 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 ## Kyberhyökkäykset Suomessa
 [Sunnuntaina 18. joulukuuta 2022](https://alueviesti.fi/2023/02/02/kyberhyokkayksesta-arviolta-300-000-euron-lasku-sakylassa/) Säkylän kuntaan kohdistettiin kyberhyökkäys. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon. Hyökkääjä tahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen. On myös hyvä ottaa huomioon  hyökkääjän ammattimaisuus ja sen, ettei Säkylän kunnassa ole mitään muuta merkittävää infrastruktuuria varuskunnan lisäksi. 
 
+Hyökkäys toteutettiin juuri ennen sote-uudistuksen määräpäivää samalla, kun Säkylän ja Satakunnan hyvinvointialueen välisissä tietoverkkojen muutostyö oli kesken.
+
 
