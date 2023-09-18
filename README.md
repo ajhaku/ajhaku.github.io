@@ -33,5 +33,5 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 
 ### Venäjän syksyn 2023 kyberhyökkäys
 
-[Maanantaina 18. syyskuuta 2023](https://www.mtvuutiset.fi/artikkeli/venalainen-hakkeriryhma-vaittaa-hyokanneensa-suomeen-nama-sivut-kohteena/8781016) Venäjä-mielinen/venäläinen hakkeriryhmä NoName057(16) teki Suomeen palvelunestohyökkäyksiä. [Hyökkäyksen motiivina oli venäläisillä rekisteritunnuksia kantavien henkilöautojen maahantulon kielto.](https://www.mtvuutiset.fi/artikkeli/live-kello-13-30-ylen-mukaan-suomi-kieltaa-lahes-kaikkien-venalaisten-henkiloautojen-maahantulon-ulkoministeri-pitaa-infon/8778910#gs.5vpvw0).
+[Maanantaina 18. syyskuuta 2023](https://www.mtvuutiset.fi/artikkeli/venalainen-hakkeriryhma-vaittaa-hyokanneensa-suomeen-nama-sivut-kohteena/8781016) Venäjä-mielinen/venäläinen hakkeriryhmä NoName057(16) teki Suomeen useita palvelunestohyökkäyksiä. Ryhmän mukaan kohteina oli VR, Traficom, ExpressBuss ja Saimaan risteilyt. [Hyökkäyksen motiivina oli venäläisillä rekisteritunnuksia kantavien henkilöautojen maahantulon estäminen 16. syyskuuta 2023 alkaen.](https://www.mtvuutiset.fi/artikkeli/live-kello-13-30-ylen-mukaan-suomi-kieltaa-lahes-kaikkien-venalaisten-henkiloautojen-maahantulon-ulkoministeri-pitaa-infon/8778910#gs.5vpvw0).
 
