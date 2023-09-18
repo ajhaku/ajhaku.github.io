@@ -31,4 +31,7 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 
 ![Säkylän kunnan tiedote kyberhyökkäysen jälkeen.](kuvat/Sakyla_kunta_tiedote.png)
 
+### Venäjän syksyn 2023 kyberhyökkäys
+
+[Maanantaina 18. syyskuuta 2023](https://www.mtvuutiset.fi/artikkeli/venalainen-hakkeriryhma-vaittaa-hyokanneensa-suomeen-nama-sivut-kohteena/8781016) Venäjä-mielinen/venäläinen hakkeriryhmä NoName057(16) teki Suomeen palvelunestohyökkäyksiä. [Hyökkäyksen motiivina oli venäläisillä rekisteritunnuksia kantavien henkilöautojen maahantulon kielto.](https://www.mtvuutiset.fi/artikkeli/live-kello-13-30-ylen-mukaan-suomi-kieltaa-lahes-kaikkien-venalaisten-henkiloautojen-maahantulon-ulkoministeri-pitaa-infon/8778910#gs.5vpvw0).
 
