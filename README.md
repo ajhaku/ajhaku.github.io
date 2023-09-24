@@ -11,9 +11,8 @@ Ukrainan presidentinvaaleja [toukokuussa 2014](https://www.europarl.europa.eu/Re
 
 Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi. 
 
-# Suomeen kohdistuneet kyberhyökkäyksen
+# Suomeen kohdistuneet kyberhyökkäykset
 [Tiistaina 15. huhtikuuta 2014](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q) - noin kaksi kuukautta Krimin valtaamisen jälkeen - uutisoitiin useilla uutissivuilla siitä ([MTV](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q), [Turun Sanomat](https://www.ts.fi/uutiset/619040)), miten kyberhyökkäysten määrä oli tuplaantunut maaliskuussa. 
-
 
 
 [Tiistaina 15. toukokuuta 2022](https://www.iltalehti.fi/kotimaa/a/d06a525e-9e3d-400f-b470-93f02d0af868) uutisoitiin venäjän Suomen sähköverkostoon kohdistamista kyberhyökkäyksistä. Hyökkäykset olivat tietojenkalasteluyrityksiä, joista pieni osa oli kohdennettua tietojenkalastelua.
