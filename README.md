@@ -11,7 +11,7 @@ Ukrainan presidentinvaaleja [toukokuussa 2014](https://www.europarl.europa.eu/Re
 
 Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi. 
 
-# Venäjä ja kyberhyökkäykset Suomeen
+# Suomeen kohdistuneet kyberhyökkäyksen
 [Tiistaina 15. huhtikuuta 2014](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q) - noin kaksi kuukautta Krimin valtaamisen jälkeen - uutisoitiin useilla uutissivuilla siitä ([MTV](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q), [Turun Sanomat](https://www.ts.fi/uutiset/619040)), miten kyberhyökkäysten määrä oli tuplaantunut maaliskuussa. 
 
 
@@ -21,6 +21,11 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 [Tiistaina 8. elokuuta 2022](https://yle.fi/a/3-12569629) Venäläinen hakkeriryhmä NoName057(16) suoritti kyberhyökkäyksen. Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä.
 
 ## Merkittävät kyberhyökkäykset Suomessa
+### Suomen puolustusteollisuuden tietomurto
+[Torstaina 14. syyskuuta](https://yle.fi/a/74-20050244) uutisoitiin Pohjois-Korean tekemistä murtautumisista Suomen puolustusteollisuuden tietojärjestelmiin. 
+
+
+
 ### Säkylän kyberhyökkäys
 
 [Sunnuntaina 18. joulukuuta 2022 klo 21:30](https://alueviesti.fi/2023/02/02/kyberhyokkayksesta-arviolta-300-000-euron-lasku-sakylassa/) havaittiin Säkylän kuntaa kohdistettu kyberhyökkäys. Hyökkäys toteutettiin juuri ennen sote-uudistuksen määräpäivää samalla, kun Säkylän ja Satakunnan hyvinvointialueen välisten tietoverkkojen muutostyö oli kesken. Hyökkääjätahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen. On myös hyvä ottaa huomioon  hyökkääjän ammattimaisuus ja sen, ettei Säkylän kunnassa ole mitään muuta merkittävää infrastruktuuria varuskunnan lisäksi. Kunnan oman arvion mukaan tekotapa sekä kohde olivat hyvin ennalta harkittuja. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon.
