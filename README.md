@@ -19,10 +19,10 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 
 [Tiistaina 8. elokuuta 2022](https://yle.fi/a/3-12569629) Venäläinen hakkeriryhmä NoName057(16) suoritti kyberhyökkäyksen. Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä. 
 
+[Maanantaina 10. Heinäkuuta 2023](https://www.mtvuutiset.fi/artikkeli/liettuassa-kyberhyokkaysten-aalto-nato-huippukokouksen-aattona/8736094#gs.5m3x1k) Liettuaan kohdistettiin päivä kyberhyökkäysten aalto. Hyökkäykset kohdistettiin Vilnan kaupungin verkkosivuihin ja kyseessä oleva hyökkäystyyppi oli palvelunestohyökkäys. Myös [sunnuntaina 9. heinäkuuta](https://www.hs.fi/ulkomaat/art-2000009709975.html) suoritettiinn toinen kyberhyökkäys, jossa alueellinen radiolähetys keskeytettiin ja sen tilalla lähetettiin NATOon ja Ukrainaan liittyvää disinformaatiota. Nämä hyökkäykset tapahtuivat Liettuassa järjestettävää NATO-huippukokousta edeltävinä päivinä. 
+
+
 ### Merkittävät kyberhyökkäykset Suomessa
-
-
-
 #### Säkylän kyberhyökkäys
 
 [Sunnuntaina 18. joulukuuta 2022 klo 21:30](https://alueviesti.fi/2023/02/02/kyberhyokkayksesta-arviolta-300-000-euron-lasku-sakylassa/) havaittiin Säkylän kuntaa kohdistettu kyberhyökkäys. Hyökkäys toteutettiin juuri ennen sote-uudistuksen määräpäivää samalla, kun Säkylän ja Satakunnan hyvinvointialueen välisten tietoverkkojen muutostyö oli kesken. Hyökkääjätahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen. On myös hyvä ottaa huomioon  hyökkääjän ammattimaisuus ja sen, ettei Säkylän kunnassa ole mitään muuta merkittävää infrastruktuuria varuskunnan lisäksi. Kunnan oman arvion mukaan tekotapa sekä kohde olivat hyvin ennalta harkittuja. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon.
