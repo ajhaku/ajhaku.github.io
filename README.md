@@ -19,7 +19,7 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 
 [Tiistaina 8. elokuuta 2022](https://yle.fi/a/3-12569629) Venäläinen hakkeriryhmä NoName057(16) suoritti kyberhyökkäyksen. Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäysellä. 
 
-[Maanantaina 10. Heinäkuuta 2023](https://www.mtvuutiset.fi/artikkeli/liettuassa-kyberhyokkaysten-aalto-nato-huippukokouksen-aattona/8736094#gs.5m3x1k) Liettuaan kohdistettiin päivä kyberhyökkäysten aalto. Hyökkäykset kohdistettiin Vilnan kaupungin verkkosivuihin ja kyseessä oleva hyökkäystyyppi oli palvelunestohyökkäys. Myös [sunnuntaina 9. heinäkuuta](https://www.hs.fi/ulkomaat/art-2000009709975.html) suoritettiinn toinen kyberhyökkäys, jossa alueellinen radiolähetys keskeytettiin ja sen tilalla lähetettiin NATOon ja Ukrainaan liittyvää disinformaatiota. Nämä hyökkäykset tapahtuivat Liettuassa järjestettävää NATO-huippukokousta edeltävinä päivinä. 
+[Maanantaina 10. Heinäkuuta 2023](https://www.mtvuutiset.fi/artikkeli/liettuassa-kyberhyokkaysten-aalto-nato-huippukokouksen-aattona/8736094#gs.5m3x1k) Liettuaan kohdistettiin päivä kyberhyökkäysten aalto. Hyökkäykset kohdistettiin Vilnan kaupungin verkkosivuihin ja kyseessä oleva hyökkäystyyppi oli palvelunestohyökkäys. Myös [sunnuntaina 9. heinäkuuta](https://www.hs.fi/ulkomaat/art-2000009709975.html) suoritettiinn toinen kyberhyökkäys, jossa alueellinen radiolähetys keskeytettiin ja sen tilalla lähetettiin NATOon ja Ukrainaan liittyvää disinformaatiota. Nämä hyökkäykset tapahtuivat Liettuassa järjestettävää NATOn huippukokousta edeltävinä päivinä. 
 
 
 ### Merkittävät kyberhyökkäykset Suomessa
