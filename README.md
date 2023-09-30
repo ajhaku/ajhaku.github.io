@@ -23,6 +23,11 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 
 
 ### Suomen kuntiin kohdistuneet hyökkäyset
+#### Turum kyberhyökkäys
+[Perjantaina 12. toukokuuta 2017](https://www.ts.fi/uutiset/3511587)
+
+
+
 #### Lahden kaupungin kyberhyökkäys 2019
 [Tiistaina 11. kesäkuuta 2019](https://yle.fi/a/3-10829719) Lahden kaupungin tietoverkkoihin kohdistettiin kyberhyökkäys, joka havaittiin virusturvaohjelmiston tunnistaessa haittaohjelman yhdeltä koneelta. Yhdessä kunnan verkon koneista havattiin haittaohjelma ja se ehti levitä suunnilleen tuhanteen työasemaan. Tämän seurauksena Lahden kaupungin ja Päijät-Hämeen hyvinvointiyhtymän väliset tietoliikenne yhteydet ajettiin alas väliaikaisesti. Hyökkäyksessä käytettiin hyväksi palomuureissa olevia ongelmia ja heikkoja salasanoja. Kyberhyökkäyksen hinta oli [8. elokuuta 2019 mennessä] tullut maksamaan lähes 700 000 euroa ja [loppuvuodesta 2019](https://yle.fi/a/3-11121273) hyökkäyksestä aiheutuneet kulut olivat nousseet noin 900 000 euroon. Hyökkäyksen vaikutuksesta Lahti alkoi panostamaan tietoverkkojen turvallisuuten lisäämällä valvontaa ja jakamalla verkon pienempiin osiin. Hyökkäyksen suorittaneesta Suomen ulkopuolinen tahon  motiiveista ei ole tarkempaa tietoa. 
 
