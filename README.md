@@ -23,9 +23,10 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 
 
 ### Merkittävät kyberhyökkäykset Suomessa
-#### Säkylän kyberhyökkäys
+#### Lahden kaupungin kyberhyökkäys 2019
 [Tiistaina 11. kesäkuuta 2019](https://yle.fi/a/3-10829719) Lahden kaupungin tietoverkkoihin kohdistettiin kyberhyökkäys. Yhdessä kunnan verkon koneista havattiin haittaohjelma ja se ehti levitä suunnilleen tuhanteen työasemaan. Hyökkäyksessä käytettiin hyväksi palomuureissa olevia ongelmia ja heikkoja salasanoja. Kyberhyökkäyksen hinta oli [8. elokuuta 2019 mennessä] tullut maksamaan lähes 700 000 euroa ja [loppuvuodesta 2019](https://yle.fi/a/3-11121273) hyökkäyksestä aiheutuneet kulut olivat nousseet noin 900 000 euroon. Hyökkäyksen vaikutuksesta Lahti alkoi panostamaan tietoverkkojen turvallisuuten lisäämällä valvontaa ja jakamalla verkon pienempiin osiin. 
 
+#### Säkylän kyberhyökkäys
 [Sunnuntaina 18. joulukuuta 2022 klo 21:30](https://alueviesti.fi/2023/02/02/kyberhyokkayksesta-arviolta-300-000-euron-lasku-sakylassa/) havaittiin Säkylän kuntaa kohdistettu kyberhyökkäys. Hyökkäys toteutettiin juuri ennen sote-uudistuksen määräpäivää samalla, kun Säkylän ja Satakunnan hyvinvointialueen välisten tietoverkkojen muutostyö oli kesken. Hyökkääjätahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen. On myös hyvä ottaa huomioon  hyökkääjän ammattimaisuus ja sen, ettei Säkylän kunnassa ole mitään muuta merkittävää infrastruktuuria varuskunnan lisäksi. Kunnan oman arvion mukaan tekotapa sekä kohde olivat hyvin ennalta harkittuja. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon.
 
  Säkylän kunta tiedotti Facebook-sivuillaan hyökkäysestä aiheutuneen haitan olleen merkittävästi päättynyt perjantaina 30. joulukuuta 2022. Tämän tapauksen myötä muidenkin paikkakuntien, joissa sijaitsee varuskuntia - tai muulla tavalla maanpuolustuksen kannalta merkittävää infrastruktuuria - tulisi varautua vastaanvanlaisiin iskuihin.
