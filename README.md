@@ -1,7 +1,7 @@
 # Kyberhyökkäykset 
 Tämän sivuston tarkoituksena on kerätä uutisia ensisijaisesti Suomeen kohdistuneista kyberhyökkäyksistä. 
 
-## NATOon tai Venäjään liittyvät kyberhyökkäykset 
+## Natoon tai Venäjään liittyvät kyberhyökkäykset 
 
 Varsinkin Ukrainan sodan alkaessa ja Suomen sekä Ruotsin aloittaessa liittymisprosessin Natoon on venäläisten aiheuttama
 kyberuhka on kasvanut merkittävästi. Edellä mainittua näkemystä tukee suojelupoliisin päällikön *Antti Peltarin* 12.9.2022 julkaistu [kolumni](https://supo.fi/-/paallikon-kolumni-kyberympariston-nousseen-uhkatason-taustalla-on-myos-venaja). Kuitenkin vielä [8.7.2022 uutisoitiin YLE:n toimesta](https://yle.fi/a/3-12525317), ettei Suomeen kohdistuneiden kyberhyökkäysten määrä ollut vielä lisääntynyt kevään 2022 aikana.
