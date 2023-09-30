@@ -38,7 +38,7 @@ Myös muualla EU-alueella kyberhyökkäysten määrä lisääntyi.
 #### Porin tietomurto 2019
 [Keskiviikkona 7. elokuuta](https://yle.fi/a/3-10918474)
 
-#### Siuntion tietomurto
+#### Siuntion tietomurto 2019
 [Torstaina 19. syyskuuta](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec)
 
 
