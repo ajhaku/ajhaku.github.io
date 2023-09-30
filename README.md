@@ -22,7 +22,7 @@ Myös muualla EU:alueella kyberhyökkäysten määrä lisääntyi.
 [Maanantaina 10. Heinäkuuta 2023](https://www.mtvuutiset.fi/artikkeli/liettuassa-kyberhyokkaysten-aalto-nato-huippukokouksen-aattona/8736094#gs.5m3x1k) Liettuaan kohdistettiin päivä kyberhyökkäysten aalto. Hyökkäykset kohdistettiin Vilnan kaupungin verkkosivuihin ja kyseessä oleva hyökkäystyyppi oli palvelunestohyökkäys. Myös [sunnuntaina 9. heinäkuuta](https://www.hs.fi/ulkomaat/art-2000009709975.html) suoritettiinn toinen kyberhyökkäys, jossa alueellinen radiolähetys keskeytettiin ja sen tilalla lähetettiin NATOon ja Ukrainaan liittyvää disinformaatiota. Nämä hyökkäykset tapahtuivat Liettuassa järjestettävää NATOn huippukokousta edeltävinä päivinä. 
 
 
-### Merkittävät kyberhyökkäykset Suomessa
+### Suomen kuntiin kohdistuneet hyökkäyset
 #### Lahden kaupungin kyberhyökkäys 2019
 [Tiistaina 11. kesäkuuta 2019](https://yle.fi/a/3-10829719) Lahden kaupungin tietoverkkoihin kohdistettiin kyberhyökkäys. Yhdessä kunnan verkon koneista havattiin haittaohjelma ja se ehti levitä suunnilleen tuhanteen työasemaan. Hyökkäyksessä käytettiin hyväksi palomuureissa olevia ongelmia ja heikkoja salasanoja. Kyberhyökkäyksen hinta oli [8. elokuuta 2019 mennessä] tullut maksamaan lähes 700 000 euroa ja [loppuvuodesta 2019](https://yle.fi/a/3-11121273) hyökkäyksestä aiheutuneet kulut olivat nousseet noin 900 000 euroon. Hyökkäyksen vaikutuksesta Lahti alkoi panostamaan tietoverkkojen turvallisuuten lisäämällä valvontaa ja jakamalla verkon pienempiin osiin. Hyökkäyksen suorittaneesta Suomen ulkopuolinen tahon  motiiveista ei ole tarkempaa tietoa. 
 
@@ -35,8 +35,8 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 
 ![Säkylän kunnan tiedote kyberhyökkäysen jälkeen.](kuvat/Sakyla_kunta_tiedote.png)
 
-#### NoNamen syksyn 2023 kyberhyökkäys
+### NoNamen syksyn 2023 kyberhyökkäys
 [Maanantaina 18. syyskuuta 2023](https://www.mtvuutiset.fi/artikkeli/venalainen-hakkeriryhma-vaittaa-hyokanneensa-suomeen-nama-sivut-kohteena/8781016) Venäjä-mielinen/venäläinen hakkeriryhmä NoName057(16) teki Suomeen useita palvelunestohyökkäyksiä. Kyseessä on sama ryhmä, joka on aikaisemmin kaatanut Suomen eduskunnan verkkosivut keväällä 2022 ja [suorittanut palvelunestohyökkäyksen 2023 syyskuun alussa Traficomin verkkosivuille](https://www.is.fi/digitoday/tietoturva/art-2000009838893.html). Tällä kertaa ryhmän mukaan kohteina oli VR, Traficom, ExpressBuss ja Saimaan risteilyt. [Hyökkäyksen motiivina oli venäläisillä rekisteritunnuksia kantavien henkilöautojen maahantulon estäminen 16. syyskuuta 2023 alkaen.](https://www.mtvuutiset.fi/artikkeli/live-kello-13-30-ylen-mukaan-suomi-kieltaa-lahes-kaikkien-venalaisten-henkiloautojen-maahantulon-ulkoministeri-pitaa-infon/8778910#gs.5vpvw0) 
 
-#### Suomen puolustusteollisuuden tietomurto
+### Suomen puolustusteollisuuden tietomurto
 [Torstaina 14. syyskuuta](https://yle.fi/a/74-20050244) uutisoitiin Pohjois-Korean tekemistä murtautumisista Suomen puolustusteollisuuden tietojärjestelmiin. Viranomaistahot eivät ole kommentoineet mikä tai mitkä  yritykset olivat kyseessä. Microsoftin aiheeseen liittyvän [raportin](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW) mukaan 5 prosenttia vakoiluaktiviteeteista on kohdistunut Suomeen. Esimerkiksi Etelä-Koreaan, Israeliin, Saksaan sekä Venäjään kohdistettiin kuhunkin 9 prosenttia vakoiluaktiviteeteista. 
