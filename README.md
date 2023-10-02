@@ -26,7 +26,7 @@ Myös muualla EU-alueella kyberhyökkäysten määrä lisääntyi.
 #### Turun kyberhyökkäys
 [Perjantaina 12. toukokuuta 2017](https://www.ts.fi/uutiset/3511587) Turun kaupungiin kohdistettiin kyberhyökkäys, joka oli osa laajempaa kyberhyökkäystä, sillä se vaikutti 150 maan tietojärjestelmiin. Hyökkäyksissä hyödynnettiin vanhempien Windows käyttöjärjestelmien haavoittuvuuksia. Hyökkäys vaikutti laajasti eri toimialueihin hyökkäyksestä kärsivät muun muassa Britannian julkinen terveydenhoitojärjestelmä, Saksan rautatieyhtiö Deutsche Bahn sekä espanjalainen teleoperaattori Telefonica. Lisäksi ranskalaisen autonvalmistaja Renaultin tuotanto keskeytettiin eri puolilla Eurooppaa.
 
-Kyseessä olevissa hyökkäyksissä hyödynnettiin WannaCry haittaohjelmaa, joka on tyypiltään kiristyshaittaohjelma. Ohjelma salaa käyttäjän tiedostot ja vaatii vastineeksi tiedostojen salauksen poistamiseksi lunnaita Bitcoineina. 
+Kyseessä olevissa hyökkäyksissä hyödynnettiin [WannaCry](https://www.ts.fi/uutiset/3511170) haittaohjelmaa, joka on tyypiltään kiristyshaittaohjelma. Ohjelma salaa käyttäjän tiedostot ja vaatii vastineeksi tiedostojen salauksen poistamiseksi lunnaita Bitcoineina. 
 
 
 #### Espoon tietojenkalasteluhyökkäys
