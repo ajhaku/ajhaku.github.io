@@ -23,9 +23,6 @@ Myös muualla EU-alueella kyberhyökkäysten määrä lisääntyi.
 
 
 ### Suomen kuntiin kohdistuneet hyökkäykset
-
-
-
 #### Espoon tietojenkalasteluhyökkäys
 [Maaliskuussa 2019](https://yle.fi/a/3-11001705) yksitoista Espoon kaupungin työntekijää joutui tietojenkalastelun uhriksi. Kyseiset työntekijät olivat saaneet sähköpostin, joka vaikutti tulleen heidän työkavereiltaan. Sähköpostit sisälsivät linkin, joka johti nigerialaisten rikollisten ylläpitämälle sivulle ja se oli tehty muistuttamaan Microsoft Office -ohjelmien kirjautumisnäkymää. Työntekijät syöttivät käyttäjätunnuksensa ja salasanansa tälle sivulle, jolloin rikolliset saivat näiden henkilöiden kirjautumistunnukset haltuunsa. Kyseessä oli siis ns. credential harvester. Hyökkääjät avasivat saatujen tunnusten avulla  32 eri dokumenttiin, joiden joukossa oli pöytäkirjoja ja tiedotteita. Myös 9 eri henkilön arkaluonteiset tiedot vuotivat rikollisten päästessä käsiin sähköposteissa olleisiin kaupungin työntekijöiden ansioluetteloihin ja työsopimuksiin. Hyökkäyksen seurauksena Espoon kaupunki otti käyttöön kaksivaiheisen tunnistuksen tiedostojen avaamista varten. Lisäksi kaupunki aikoo lisätä henkilöstönsä tietoturvakoulutusta. 
 
@@ -40,7 +37,6 @@ Myös muualla EU-alueella kyberhyökkäysten määrä lisääntyi.
 
 #### Siuntion tietomurto 2019
 [Torstaina 19. syyskuuta](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec)
-
 
 #### Säkylän kyberhyökkäys
 [Sunnuntaina 18. joulukuuta 2022 klo 21:30](https://alueviesti.fi/2023/02/02/kyberhyokkayksesta-arviolta-300-000-euron-lasku-sakylassa/) havaittiin Säkylän kuntaan kohdistettu kyberhyökkäys. Hyökkäys toteutettiin juuri ennen sote-uudistuksen määräpäivää samalla, kun Säkylän ja Satakunnan hyvinvointialueen välisten tietoverkkojen muutostyö oli kesken. Hyökkääjätahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen. On myös hyvä ottaa huomioon  hyökkääjän ammattimaisuus ja sen, ettei Säkylän kunnassa ole mitään muuta merkittävää infrastruktuuria varuskunnan lisäksi. Kunnan oman arvion mukaan tekotapa sekä kohde olivat hyvin ennalta harkittuja. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon.
