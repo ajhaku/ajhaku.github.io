@@ -23,10 +23,7 @@ Myös muualla EU-alueella kyberhyökkäysten määrä lisääntyi.
 
 
 ### Suomen kuntiin kohdistuneet hyökkäykset
-#### Turun kyberhyökkäys
-[Perjantaina 12. toukokuuta 2017](https://www.ts.fi/uutiset/3511587) Turun kaupungiin kohdistettiin kyberhyökkäys, joka oli osa laajempaa kyberhyökkäystä, sillä se vaikutti 150 maan tietojärjestelmiin. Hyökkäyksissä hyödynnettiin vanhempien Windows käyttöjärjestelmien haavoittuvuuksia. Hyökkäys vaikutti laajasti eri toimialueihin hyökkäyksestä kärsivät muun muassa Britannian julkinen terveydenhoitojärjestelmä, Saksan rautatieyhtiö Deutsche Bahn sekä espanjalainen teleoperaattori Telefonica. Lisäksi ranskalaisen autonvalmistaja Renaultin tuotanto keskeytettiin eri puolilla Eurooppaa.
 
-Kyseessä olevissa hyökkäyksissä hyödynnettiin [WannaCry](https://www.ts.fi/uutiset/3511170) haittaohjelmaa, joka on tyypiltään kiristyshaittaohjelma. Ohjelma salaa käyttäjän tiedostot ja vaatii vastineeksi tiedostojen salauksen poistamiseksi lunnaita Bitcoineina. Hyökkäys vaikutti erityisesti Windows 7 -käyttöjärjestelmän käyttäjiin, sillä [98 % haittaohjelman uhreista](https://www.bleepingcomputer.com/news/security/over-98-percent-of-all-wannacry-victims-were-using-windows-7/) käytti Windows 7 -käyttöjärjestelmää. Hyökkäyksen takia Microsoft [julkaisi](https://www.theguardian.com/technology/2017/jun/14/wannacry-attacks-prompt-microsoft-to-release-updates-for-older-windows-versions), jopa vanhemmille käyttöjärjestelmiin kuten Windows XP:lle ja Windows 2003:lle tietoturvapäivityksiä.
 
 
 #### Espoon tietojenkalasteluhyökkäys
@@ -59,3 +56,9 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 
 ### Suomen puolustusteollisuuden tietomurto
 [Torstaina 14. syyskuuta](https://yle.fi/a/74-20050244) uutisoitiin Pohjois-Korean tekemistä murtautumisista Suomen puolustusteollisuuden tietojärjestelmiin. Viranomaistahot eivät ole kommentoineet mikä tai mitkä  yritykset olivat kyseessä. Microsoftin aiheeseen liittyvän [raportin](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW) mukaan 5 prosenttia vakoiluaktiviteeteista on kohdistunut Suomeen. Esimerkiksi Etelä-Koreaan, Israeliin, Saksaan sekä Venäjään kohdistettiin kuhunkin 9 prosenttia vakoiluaktiviteeteista. 
+
+## Muut merkittävät kyberhyökkäykset
+#### Wannacry-haittaohjelma 2017
+[Perjantaina 12. toukokuuta 2017](https://www.ts.fi/uutiset/3511587) useisiin maihin kohdistettiin kyberhyökkäys, joka oli laajudeltaan merkittävä, sillä se vaikutti 150 maan tietojärjestelmiin. Hyökkäyksissä hyödynnettiin vanhempien Windows käyttöjärjestelmien haavoittuvuuksia. Hyökkäys vaikutti laajasti eri toimialueihin hyökkäyksestä kärsivät muun muassa Britannian julkinen terveydenhoitojärjestelmä, Saksan rautatieyhtiö Deutsche Bahn sekä espanjalainen teleoperaattori Telefonica. Lisäksi ranskalaisen autonvalmistaja Renaultin tuotanto keskeytettiin eri puolilla Eurooppaa.
+
+Kyseessä olevissa hyökkäyksissä hyödynnettiin [WannaCry](https://www.ts.fi/uutiset/3511170) haittaohjelmaa, joka on tyypiltään kiristyshaittaohjelma. Ohjelma salaa käyttäjän tiedostot ja vaatii vastineeksi tiedostojen salauksen poistamiseksi lunnaita Bitcoineina. Hyökkäys vaikutti erityisesti Windows 7 -käyttöjärjestelmän käyttäjiin, sillä [98 % haittaohjelman uhreista](https://www.bleepingcomputer.com/news/security/over-98-percent-of-all-wannacry-victims-were-using-windows-7/) käytti Windows 7 -käyttöjärjestelmää. Hyökkäyksen takia Microsoft [julkaisi](https://www.theguardian.com/technology/2017/jun/14/wannacry-attacks-prompt-microsoft-to-release-updates-for-older-windows-versions), jopa vanhemmille käyttöjärjestelmiin kuten Windows XP:lle ja Windows 2003:lle tietoturvapäivityksiä.
