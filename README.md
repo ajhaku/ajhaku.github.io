@@ -35,7 +35,7 @@ Myös muualla EU-alueella kyberhyökkäysten määrä lisääntyi.
 #### Porin tietomurto 2019
 [Keskiviikkona 7. elokuuta](https://yle.fi/a/3-10918474) Porin kaupungin opetusverkkoon kohdistettiin tietomurto, joka havaittiin kun yhdessä opetusverkon työasemasta havaittiin haittaohjelma. Kyseinen haittaohjelma oli tehty keräämään kirjatusmistietoihin liittyvää dataa. Porin kaupungin IT-osaston mukaan tietomurto on tullut ulkomailta. Tämän tietomurron seurauksena kaikki opetusverkon käyttäjät joutuivat vaihtamaan salasanansa.  
 
-Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuitenkin jo [perjantaina 9. elokuuta](https://yle.fi/a/3-10916012) paljastui tietomurron olleen luultua vakavampi. 
+Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuitenkin jo [perjantaina 9. elokuuta](https://yle.fi/a/3-10916012) paljastui tietomurron olleen luultua vakavampi. Tutkittaessa tietomurtoa tarkemmin paljastui tekijöiden päässeen käsiksi käyttäjien tiedostoihin.
 
 #### Siuntion tietomurto 2019
 [Torstaina 19. syyskuuta](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec) Siuntion kuntaan kohdistettiin tietomurto. Tietomurroista saaduilla tiedoilla lähetettiin Siuntion kunnan nimissä kalasteluviestejä. Lähetettyjen sähköpostien otsikoissa viitattiin laskuihin ja viestit sisälsivät linkin huijareiden tekemälle sivulle, jonne käyttäjät ohjattiin syöttäämään sähköpostitunnuksensa. 
