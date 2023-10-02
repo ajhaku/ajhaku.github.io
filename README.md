@@ -36,7 +36,7 @@ Myös muualla EU-alueella kyberhyökkäysten määrä lisääntyi.
 [Keskiviikkona 7. elokuuta](https://yle.fi/a/3-10918474)
 
 #### Siuntion tietomurto 2019
-[Torstaina 19. syyskuuta](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec) Siuntion kuntaan kohdistettiin tietomurto. Tietomurroista saaduilla tiedoilla lähetettiin kalasteluviestejä. Viestit sisälsivät linkin huijareiden tekemälle sivulle, jonne käyttäjät ohjattiin syöttäämään sähköpostitunnuksensa. 
+[Torstaina 19. syyskuuta](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec) Siuntion kuntaan kohdistettiin tietomurto. Tietomurroista saaduilla tiedoilla lähetettiin kalasteluviestejä. Lähetetyt viestit sisälsivät linkin huijareiden tekemälle sivulle, jonne käyttäjät ohjattiin syöttäämään sähköpostitunnuksensa. 
 
 #### Säkylän kyberhyökkäys
 [Sunnuntaina 18. joulukuuta 2022 klo 21:30](https://alueviesti.fi/2023/02/02/kyberhyokkayksesta-arviolta-300-000-euron-lasku-sakylassa/) havaittiin Säkylän kuntaan kohdistettu kyberhyökkäys. Hyökkäys toteutettiin juuri ennen sote-uudistuksen määräpäivää samalla, kun Säkylän ja Satakunnan hyvinvointialueen välisten tietoverkkojen muutostyö oli kesken. Hyökkääjätahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen. On myös hyvä ottaa huomioon  hyökkääjän ammattimaisuus ja sen, ettei Säkylän kunnassa ole mitään muuta merkittävää infrastruktuuria varuskunnan lisäksi. Kunnan oman arvion mukaan tekotapa sekä kohde olivat hyvin ennalta harkittuja. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon.
