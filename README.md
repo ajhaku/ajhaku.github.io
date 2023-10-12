@@ -41,9 +41,11 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 ### Suomen puolustusteollisuuden tietomurto
 [Torstaina 14. syyskuuta 2023](https://yle.fi/a/74-20050244) uutisoitiin Pohjois-Korean tekemistä murtautumisista Suomen puolustusteollisuuden tietojärjestelmiin. Viranomaistahot eivät ole kommentoineet mikä tai mitkä  yritykset olivat kyseessä. Microsoftin aiheeseen liittyvän [raportin](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW) mukaan 5 prosenttia vakoiluaktiviteeteista on kohdistunut Suomeen. Esimerkiksi Etelä-Koreaan, Israeliin, Saksaan sekä Venäjään kohdistettiin kuhunkin 9 prosenttia vakoiluaktiviteeteista. 
 
+### Osuuspankin palvelunestohyökkäys
+[Keskiviikkona 4. lokakuuta](https://yle.fi/a/74-20053580) Osuuspankin op.fi-palveluun kohdistettiin palvelunestohyökkäys. Venäläinen hakkeriryhmä Noname057(16) väittää [Telegram-kanavallaan](https://t.me/s/noname05716eng) olleensa hyökkäyksen takana. 
 
 ### Helsingin seudun liikenteen palvelunestohyökkäys
-[Torstai-iltana 5. lokakuuta 2023](https://yle.fi/a/74-20053880) Helsingin seudun liikenteen (HSL) reittiopas oli alhaalla seuraavaan päivään klo 9:15 asti. Informatiopäällikkö *Joona Packalén* kertoo HSL:ään kohdistenuiden palvelunestohyökkäysten määrän kasvaneen merkittävästi vuoden 2023 aikana. Packalénin mukaan tämän mittakaavan hyökkäyksiä ei ole aiemmin kohdistettu HSL:n palveluihin. Palvelunestohyökkäykseen liittyvä verkkoliikenne tuli EU-maiden ulkomailta. 
+[Torstai-iltana 5. lokakuuta 2023](https://yle.fi/a/74-20053880) Helsingin seudun liikenteen (HSL) reittiopas oli alhaalla seuraavaan päivään klo 9:15 asti. Informatiopäällikkö *Joona Packalén* kertoo HSL:ään kohdistenuiden palvelunestohyökkäysten määrän kasvaneen merkittävästi vuoden 2023 aikana. Packalénin mukaan tämän mittakaavan hyökkäyksiä ei ole aiemmin kohdistettu HSL:n palveluihin. Palvelunestohyökkäykseen liittyvä verkkoliikenne tuli EU-maiden ulkomailta. Hyökkäys on todennäköisesti Noname057(16) toimesta suoritettu, sillä se viestitti päivää aikaisemmin 
 
 
 
