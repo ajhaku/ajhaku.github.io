@@ -1,25 +1,11 @@
 # Kyberhyökkäykset 
 Tämän sivuston tarkoituksena on kerätä uutisia ensisijaisesti Suomeen kohdistuneista kyberhyökkäyksistä. 
 
-## Natoon tai Venäjään liittyvät kyberhyökkäykset 
 
-Varsinkin Ukrainan sodan alkaessa ja Suomen sekä Ruotsin aloittaessa liittymisprosessin Natoon on venäläisten aiheuttama
-kyberuhka on kasvanut merkittävästi. Edellä mainittua näkemystä tukee suojelupoliisin päällikön *Antti Peltarin* 12.9.2022 julkaistu [kolumni](https://supo.fi/-/paallikon-kolumni-kyberympariston-nousseen-uhkatason-taustalla-on-myos-venaja). Kuitenkin vielä [8.7.2022 uutisoitiin YLE:n toimesta](https://yle.fi/a/3-12525317), ettei Suomeen kohdistuneiden kyberhyökkäysten määrä ollut vielä lisääntynyt kevään 2022 aikana.
-
-[Sunnuntaina 16. maaliskuuta 2014](https://yle.fi/a/3-7139204) venäjämielinen ukrainalainen hakkeriryhmä *CyberBerkut* kaatoi sotilasliitto NATOn verkkosivut palvelunestohyökkäyksellä. Sama ryhmä yritti manipuloida 
-Ukrainan presidentinvaaleja [toukokuussa 2014](https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/733549/EPRS_BRI(2022)733549_EN.pdf). Ryhmän tekemä haittaohjelma poistettiin 25. toukokuuta 2014 vain 40 minuuttia ennen vaalien alkua.
-
-Myös muualla EU-alueella kyberhyökkäysten määrä lisääntyi. 
 
 ## Suomeen kohdistuneet kyberhyökkäykset
-[Tiistaina 15. huhtikuuta 2014](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q) - noin kaksi kuukautta Krimin valtaamisen jälkeen - uutisoitiin useilla uutissivuilla siitä ([MTV](https://www.mtvuutiset.fi/artikkeli/tietoturvayhtio-venajan-kyberhyokkaykset-suomeen-tuplaantuivat/3163384#gs.47k89q), [Turun Sanomat](https://www.ts.fi/uutiset/619040)), miten kyberhyökkäysten määrä oli tuplaantunut maaliskuussa. 
 
 
-[Tiistaina 15. toukokuuta 2022](https://www.iltalehti.fi/kotimaa/a/d06a525e-9e3d-400f-b470-93f02d0af868) uutisoitiin venäjän Suomen sähköverkostoon kohdistamista kyberhyökkäyksistä. Hyökkäykset olivat tietojenkalasteluyrityksiä, joista pieni osa oli kohdennettua tietojenkalastelua.
-
-[Tiistaina 8. elokuuta 2022](https://yle.fi/a/3-12569629) Venäläinen hakkeriryhmä NoName057(16) suoritti kyberhyökkäyksen. Hyökkäyksessä Suomen eduskunnan verkkosivut kaadettiin palvelunestohyökkäyksellä. 
-
-[Maanantaina 10. Heinäkuuta 2023](https://www.mtvuutiset.fi/artikkeli/liettuassa-kyberhyokkaysten-aalto-nato-huippukokouksen-aattona/8736094#gs.5m3x1k) Liettuaan kohdistettiin päivä kyberhyökkäysten aalto. Hyökkäykset kohdistettiin Vilnan kaupungin verkkosivuihin ja kyseessä oleva hyökkäystyyppi oli palvelunestohyökkäys. Myös [sunnuntaina 9. heinäkuuta](https://www.hs.fi/ulkomaat/art-2000009709975.html) suoritettiin toinen kyberhyökkäys, jossa alueellinen radiolähetys keskeytettiin ja sen tilalla lähetettiin Natoon ja Ukrainaan liittyvää disinformaatiota. Nämä hyökkäykset tapahtuivat Liettuassa järjestettävää Naton huippukokousta edeltävinä päivinä. 
 
 
 ### Suomen kuntiin kohdistuneet hyökkäykset
@@ -53,10 +39,22 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 [Maanantaina 18. syyskuuta 2023](https://www.mtvuutiset.fi/artikkeli/venalainen-hakkeriryhma-vaittaa-hyokanneensa-suomeen-nama-sivut-kohteena/8781016) Venäjä-mielinen/venäläinen hakkeriryhmä NoName057(16) teki Suomeen useita palvelunestohyökkäyksiä. Kyseessä on sama ryhmä, joka on aikaisemmin kaatanut Suomen eduskunnan verkkosivut keväällä 2022 ja [suorittanut palvelunestohyökkäyksen 2023 syyskuun alussa Traficomin verkkosivuille](https://www.is.fi/digitoday/tietoturva/art-2000009838893.html). Tällä kertaa ryhmän mukaan kohteina oli VR, Traficom, ExpressBus ja Saimaan risteilyt. [Hyökkäyksen motiivina oli venäläisillä rekisteritunnuksia kantavien henkilöautojen maahantulon estäminen 16. syyskuuta 2023 alkaen.](https://www.mtvuutiset.fi/artikkeli/live-kello-13-30-ylen-mukaan-suomi-kieltaa-lahes-kaikkien-venalaisten-henkiloautojen-maahantulon-ulkoministeri-pitaa-infon/8778910#gs.5vpvw0) 
 
 ### Suomen puolustusteollisuuden tietomurto
-[Torstaina 14. syyskuuta](https://yle.fi/a/74-20050244) uutisoitiin Pohjois-Korean tekemistä murtautumisista Suomen puolustusteollisuuden tietojärjestelmiin. Viranomaistahot eivät ole kommentoineet mikä tai mitkä  yritykset olivat kyseessä. Microsoftin aiheeseen liittyvän [raportin](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW) mukaan 5 prosenttia vakoiluaktiviteeteista on kohdistunut Suomeen. Esimerkiksi Etelä-Koreaan, Israeliin, Saksaan sekä Venäjään kohdistettiin kuhunkin 9 prosenttia vakoiluaktiviteeteista. 
+[Torstaina 14. syyskuuta 2023](https://yle.fi/a/74-20050244) uutisoitiin Pohjois-Korean tekemistä murtautumisista Suomen puolustusteollisuuden tietojärjestelmiin. Viranomaistahot eivät ole kommentoineet mikä tai mitkä  yritykset olivat kyseessä. Microsoftin aiheeseen liittyvän [raportin](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1aFyW) mukaan 5 prosenttia vakoiluaktiviteeteista on kohdistunut Suomeen. Esimerkiksi Etelä-Koreaan, Israeliin, Saksaan sekä Venäjään kohdistettiin kuhunkin 9 prosenttia vakoiluaktiviteeteista. 
+
+
+### Helsingin seudun liikenteen palvelunestohyökkäys
+[Torstai-iltana 5. lokakuuta 2023](https://yle.fi/a/74-20053880) Helsingin seudun liikenteen (HSL) reittiopas oli alhaalla seuraavaan päivään klo 9:15 asti. Informatiopäällikkö *Joona Packalén* kertoo HSL:ään kohdistenuiden palvelunestohyökkäysten määrän kasvaneen merkittävästi vuoden 2023 aikana. Packalénin mukaan tämän mittakaavan hyökkäyksiä ei ole aiemmin kohdistettu HSL:n palveluihin. Palvelunestohyökkäykseen liittyvä verkkoliikenne tuli EU-maiden ulkomailta. 
+
+
+
+
+
 
 ## Muut merkittävät kyberhyökkäykset
 #### Wannacry-kiristyshaittaohjelma 2017
 [Perjantaina 12. toukokuuta 2017](https://www.ts.fi/uutiset/3511587) useisiin maihin kohdistettiin kyberhyökkäys, joka oli laajudeltaan merkittävä, sillä se vaikutti 150 maan tietojärjestelmiin. Hyökkäyksissä hyödynnettiin vanhempien Windows käyttöjärjestelmien haavoittuvuuksia. Hyökkäys vaikutti laajasti eri toimialueihin hyökkäyksestä kärsivät muun muassa Britannian julkinen terveydenhoitojärjestelmä, Saksan rautatieyhtiö Deutsche Bahn sekä espanjalainen teleoperaattori Telefonica. Lisäksi ranskalaisen autonvalmistaja Renaultin tuotanto keskeytettiin eri puolilla Eurooppaa.
 
 Kyseessä olevissa hyökkäyksissä hyödynnettiin [WannaCry](https://www.ts.fi/uutiset/3511170) haittaohjelmaa, joka on tyypiltään kiristyshaittaohjelma. Ohjelma salaa käyttäjän tiedostot ja vaatii vastineeksi tiedostojen salauksen poistamiseksi lunnaita Bitcoineina. Hyökkäys vaikutti erityisesti Windows 7 -käyttöjärjestelmän käyttäjiin, sillä [98 % haittaohjelman uhreista](https://www.bleepingcomputer.com/news/security/over-98-percent-of-all-wannacry-victims-were-using-windows-7/) käytti Windows 7 -käyttöjärjestelmää. Hyökkäyksen takia Microsoft [julkaisi tietoturvapäivityksiä](https://www.theguardian.com/technology/2017/jun/14/wannacry-attacks-prompt-microsoft-to-release-updates-for-older-windows-versions) vanhemmille käyttöjärjestelmiin kuten Windows XP:lle ja Windows 2003:lle.
+
+
+
