@@ -5,7 +5,7 @@ Tämän sivuston tarkoituksena on kerätä uutisia ensisijaisesti Suomeen kohdis
 
 ## Suomeen kohdistuneiden kyberhyökkäysten aikajana
 
-
+## 2019
 ### Espoon tietojenkalasteluhyökkäys
 [Maaliskuussa 2019](https://yle.fi/a/3-11001705) yksitoista Espoon kaupungin työntekijää joutui tietojenkalastelun uhriksi. Kyseiset työntekijät olivat saaneet sähköpostin, joka vaikutti tulleen heidän työkavereiltaan. Sähköpostit sisälsivät linkin, joka johti nigerialaisten rikollisten ylläpitämälle sivulle ja se oli tehty muistuttamaan Microsoft Office -ohjelmien kirjautumisnäkymää. Työntekijät syöttivät käyttäjätunnuksensa ja salasanansa tälle sivulle, jolloin rikolliset saivat näiden henkilöiden kirjautumistunnukset haltuunsa. Kyseessä oli siis ns. credential harvester. Hyökkääjät avasivat saatujen tunnusten avulla  32 eri dokumenttiin, joiden joukossa oli pöytäkirjoja ja tiedotteita. Myös 9 eri henkilön arkaluonteiset tiedot vuotivat rikollisten päästessä käsiin sähköposteissa olleisiin kaupungin työntekijöiden ansioluetteloihin ja työsopimuksiin. Hyökkäyksen seurauksena Espoon kaupunki otti käyttöön kaksivaiheisen tunnistuksen tiedostojen avaamista varten. Lisäksi kaupunki aikoo lisätä henkilöstönsä tietoturvakoulutusta. 
 
