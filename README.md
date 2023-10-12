@@ -1,5 +1,5 @@
 # Kyberhyökkäykset 
-Tämän sivuston tarkoituksena on kerätä uutisia ensisijaisesti Suomeen kohdistuneista kyberhyökkäyksistä. 
+Tämän sivuston tarkoituksena on kerätä uutisia ensisijaisesti Suomeen kohdistuneista kyberhyökkäyksistä.  
 
 
 
