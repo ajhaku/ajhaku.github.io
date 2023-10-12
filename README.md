@@ -23,6 +23,11 @@ Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuiten
 ### Siuntion tietomurto
 [Torstaina 19. syyskuuta 2019](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec) Siuntion kuntaan kohdistettiin tietomurto. Tietomurroista saaduilla tiedoilla lähetettiin Siuntion kunnan nimissä kalasteluviestejä. Lähetettyjen sähköpostien otsikoissa viitattiin laskuihin ja viestit sisälsivät linkin huijareiden tekemälle sivulle, jonne käyttäjät ohjattiin syöttäämään sähköpostitunnuksensa. 
 
+## 2020
+### Eduskunnan tietomurto
+[Vuoden 2020 syksynä eduskuntaa kohdistettiin tietomurto. ](https://yle.fi/a/3-11715912)
+
+
 ## 2022
 ### Säkylän kyberhyökkäys
 [Sunnuntaina 18. joulukuuta 2022 klo 21:30](https://alueviesti.fi/2023/02/02/kyberhyokkayksesta-arviolta-300-000-euron-lasku-sakylassa/) havaittiin Säkylän kuntaan kohdistettu kyberhyökkäys. Hyökkäys toteutettiin juuri ennen sote-uudistuksen määräpäivää samalla, kun Säkylän ja Satakunnan hyvinvointialueen välisten tietoverkkojen muutostyö oli kesken. Hyökkääjätahosta ei ole tietoa, mutta ottaen huomioon, että Säkylässä sijaitsee Huovirinteen varuskunta - herää varmasti epäilyksiä Venäjän mahdollisesta osallisuudesta hyökkäykseen. On myös hyvä ottaa huomioon  hyökkääjän ammattimaisuus ja sen, ettei Säkylän kunnassa ole mitään muuta merkittävää infrastruktuuria varuskunnan lisäksi. Kunnan oman arvion mukaan tekotapa sekä kohde olivat hyvin ennalta harkittuja. Hyökkäyksen hintalappu kohosi lähes 300 000 euroon.
@@ -33,9 +38,6 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 
 ![Säkylän kunnan tiedote kyberhyökkäysen jälkeen.](kuvat/Sakyla_kunta_tiedote.png)
 
-## 2020
-### Eduskunnan tietomurto
-[Vuoden 2020 syksynä eduskuntaa kohdistettiin tietomurto. ](https://yle.fi/a/3-11715912)
 
 ## 2023
 ### NoNamen syksyn 2023 kyberhyökkäys
