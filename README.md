@@ -25,7 +25,7 @@ Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuiten
 
 ## 2020
 ### Eduskunnan tietomurto
-[Vuoden 2020 syksynä eduskuntaa kohdistettiin tietomurto. ](https://yle.fi/a/3-11715912)
+[Vuoden 2020 syksynä eduskuntaa kohdistettiin tietomurto. ](https://yle.fi/a/3-11715912) .  Kansanedustajille annettiin tapahtuneen seurauksena [tietoturvakoulutusta](https://yle.fi/a/3-11767479).
 
 ## 2021
 ### Eislakaisla kyberhyökkäys
