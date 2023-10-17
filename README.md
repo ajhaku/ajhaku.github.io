@@ -30,7 +30,7 @@ Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuiten
 ## 2021
 ### Eislakaisla kyberhyökkäys
 [Perjantaina 8. Tammikuuta](https://yle.fi/a/3-11730761) henkilöstöyritys Eislakaislaan kohdistettiin kyberhyökkäys.
-
+-->
 ## 2022
 <!--
 ### Valtran kiristyshaittaohjelmahyökkäys
