@@ -23,9 +23,10 @@ Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuiten
 ### Siuntion tietomurto
 [Torstaina 19. syyskuuta 2019](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec) Siuntion kuntaan kohdistettiin tietomurto. Tietomurroista saaduilla tiedoilla lähetettiin Siuntion kunnan nimissä kalasteluviestejä. Lähetettyjen sähköpostien otsikoissa viitattiin laskuihin ja viestit sisälsivät linkin huijareiden tekemälle sivulle, jonne käyttäjät ohjattiin syöttäämään sähköpostitunnuksensa. 
 
-## 2020
+<!--## 2020
 ### Eduskunnan tietomurto
 [Vuoden 2020 syksynä eduskuntaa kohdistettiin tietomurto. ](https://yle.fi/a/3-11715912) .  Kansanedustajille annettiin tapahtuneen seurauksena [tietoturvakoulutusta](https://yle.fi/a/3-11767479).
+-->
 <!--
 ## 2021
 ### Eislakaisla kyberhyökkäys
