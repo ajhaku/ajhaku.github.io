@@ -16,12 +16,12 @@ Tämän sivuston tarkoituksena on kerätä uutisia ensisijaisesti Suomeen kohdis
 [29. heinäkuuta 2019](https://yle.fi/a/3-10899935) kiristyshaittaohjelma pääsi Kokemäen kaupungin sisäiseen verkkoon ja palvelinympäristöön. Haittaohjelma ei kuitenkaan levinnyt kaupungin tietohallinnon ulkopuolelle. Lisäksi se ei vaikuttanut terveydenhuollon palveluihin, koska Kokemäen terveydenhuollon hoitaa Keski-Satakunnan terveydenhuollon kuntayhtymä. Kyseisestä kyberhyökkäyksestä tehtiin rikosilmoitus. 
 
 ### Porin tietomurto 
-[Keskiviikkona 7. elokuuta 2019](https://yle.fi/a/3-10918474) Porin kaupungin opetusverkkoon kohdistettiin tietomurto, joka havaittiin kun yhdessä opetusverkon työasemasta havaittiin haittaohjelma. Kyseinen haittaohjelma oli tehty keräämään kirjatusmistietoihin liittyvää dataa. Porin kaupungin IT-osaston mukaan tietomurto on tullut ulkomailta. Tämän tietomurron seurauksena kaikki opetusverkon käyttäjät joutuivat vaihtamaan salasanansa.  
+[Keskiviikkona 7. elokuuta 2019](https://yle.fi/a/3-10918474) Porin kaupungin opetusverkkoon kohdistettiin tietomurto, joka havaittiin kun yhdessä opetusverkon työasemasta havaittiin haittaohjelma. Kyseinen haittaohjelma oli tehty keräämään kirjautumistietoihin liittyvää dataa. Porin kaupungin IT-osaston mukaan tietomurto on tullut ulkomailta. Tämän tietomurron seurauksena kaikki opetusverkon käyttäjät joutuivat vaihtamaan salasanansa.  
 
 Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuitenkin jo [perjantaina 9. elokuuta](https://yle.fi/a/3-10916012) paljastui tietomurron olleen luultua vakavampi. Tutkittaessa tietomurtoa tarkemmin paljastui tekijöiden päässeen käsiksi käyttäjien tiedostoihin.
 
 ### Siuntion tietomurto
-[Torstaina 19. syyskuuta 2019](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec) Siuntion kuntaan kohdistettiin tietomurto. Tietomurroista saaduilla tiedoilla lähetettiin Siuntion kunnan nimissä kalasteluviestejä. Lähetettyjen sähköpostien otsikoissa viitattiin laskuihin ja viestit sisälsivät linkin huijareiden tekemälle sivulle, jonne käyttäjät ohjattiin syöttäämään sähköpostitunnuksensa. 
+[Torstaina 19. syyskuuta 2019](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec) Siuntion kuntaan kohdistettiin tietomurto. Tietomurroista saaduilla tiedoilla lähetettiin Siuntion kunnan nimissä kalasteluviestejä. Lähetettyjen sähköpostien otsikoissa viitattiin laskuihin ja viestit sisälsivät linkin huijareiden tekemälle sivulle, jonne käyttäjät ohjattiin syöttämään sähköpostitunnuksensa. 
 
 <!--## 2020
 ### Eduskunnan tietomurto
@@ -45,7 +45,7 @@ Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuiten
 
 Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voidaan siis vain arvailla, mikä oli hyökkääjien varsinainen tavoite. Joka tapauksessa kuntalaisten tietoja ei kuitenkaan tiettävästi vuotanut kolmansille osapuolille hyökkäyksen takia.
 
-![Säkylän kunnan tiedote kyberhyökkäysen jälkeen.](kuvat/Sakyla_kunta_tiedote.png)
+![Säkylän kunnan tiedote kyberhyökkäyksen jälkeen.](kuvat/Sakyla_kunta_tiedote.png)
 
 
 ## 2023
@@ -74,6 +74,5 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 [Perjantaina 12. toukokuuta 2017](https://www.ts.fi/uutiset/3511587) useisiin maihin kohdistettiin kyberhyökkäys, joka oli laajudeltaan merkittävä, sillä se vaikutti 150 maan tietojärjestelmiin. Hyökkäyksissä hyödynnettiin vanhempien Windows käyttöjärjestelmien haavoittuvuuksia. Hyökkäys vaikutti laajasti eri toimialueihin hyökkäyksestä kärsivät muun muassa Britannian julkinen terveydenhoitojärjestelmä, Saksan rautatieyhtiö Deutsche Bahn sekä espanjalainen teleoperaattori Telefonica. Lisäksi ranskalaisen autonvalmistaja Renaultin tuotanto keskeytettiin eri puolilla Eurooppaa.
 
 Kyseessä olevissa hyökkäyksissä hyödynnettiin [WannaCry](https://www.ts.fi/uutiset/3511170) haittaohjelmaa, joka on tyypiltään kiristyshaittaohjelma. Ohjelma salaa käyttäjän tiedostot ja vaatii vastineeksi tiedostojen salauksen poistamiseksi lunnaita Bitcoineina. Hyökkäys vaikutti erityisesti Windows 7 -käyttöjärjestelmän käyttäjiin, sillä [98 % haittaohjelman uhreista](https://www.bleepingcomputer.com/news/security/over-98-percent-of-all-wannacry-victims-were-using-windows-7/) käytti Windows 7 -käyttöjärjestelmää. Hyökkäyksen takia Microsoft [julkaisi tietoturvapäivityksiä](https://www.theguardian.com/technology/2017/jun/14/wannacry-attacks-prompt-microsoft-to-release-updates-for-older-windows-versions) vanhemmille käyttöjärjestelmiin kuten Windows XP:lle ja Windows 2003:lle.
-
 
 
