@@ -69,7 +69,7 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 [Torstai-iltapäivällä 19. lokakuuta](https://yle.fi/a/74-20056204) Viking Linen verkkosivuille kohdistettiin palvelunestohyökkäys. Hyökkäyksen seurauksena nettisivut olivat alhaalla seuraavaan päivään asti kunnes ne saatin jälleen toimimaan. 
 
 ### Suomen tietomurtoaalto
-[Perjantaina 20. lokakuuta](https://www.is.fi/digitoday/tietoturva/art-2000009936173.html) laajasta suomalaisiin kohdistuvasta tietojenkalastelukampanjasta. Hyökkäyksessä ihmisille lähetetään sähköposteja, jotka muistuttavat turvasähköposteja. Sähköposteissa oleva linkki johtaa kuitenkin rikollisten ylläpitämälle sivulle, jossa käyttäjät huijataan syöttämään Microsoft-tiliensä tunnuksilla. Viking Linen tiedostusjohtaja Johanna Boijer-Svahströmin mukaan hyökkäys oli osa laajempaa palvelunestohyökkäyskampanjaa, sillä hyökkäyksiä oli kohdistettu myös muihin Euroopassa sijaitseviin varustamoihin. 
+[Perjantaina 20. lokakuuta](https://www.is.fi/digitoday/tietoturva/art-2000009936173.html) laajasta suomalaisiin kohdistuvasta tietojenkalastelukampanjasta. Hyökkäyksessä ihmisille lähetetään sähköposteja, jotka muistuttavat turvasähköposteja. Sähköposteissa oleva linkki johtaa kuitenkin rikollisten ylläpitämälle sivulle, jossa käyttäjät huijataan syöttämään Microsoft-tiliensä tunnuksilla. Viking Linen tiedostusjohtaja Johanna Boijer-Svahströmin mukaan hyökkäys oli osa laajempaa palvelunestohyökkäyskampanjaa, sillä hyökkäyksiä oli kohdistettu myös muihin Euroopassa sijaitseviin varustamoihin.  
  
 
 ## Muut merkittävät kyberhyökkäykset
