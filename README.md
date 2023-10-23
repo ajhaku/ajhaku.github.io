@@ -62,8 +62,8 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 [Torstai-iltana 5. lokakuuta 2023](https://yle.fi/a/74-20053880) Helsingin seudun liikenteen (HSL) reittiopas oli alhaalla seuraavaan päivään klo 9:15 asti. Informatiopäällikkö *Joona Packalén* kertoo HSL:ään kohdistenuiden palvelunestohyökkäysten määrän kasvaneen merkittävästi vuoden 2023 aikana. Packalénin mukaan tämän mittakaavan hyökkäyksiä ei ole aiemmin kohdistettu HSL:n palveluihin. Palvelunestohyökkäykseen liittyvä verkkoliikenne tuli EU-maiden ulkomailta. Hyökkäys on todennäköisesti Noname057(16) toimesta suoritettu, sillä se viestitti päivää aikaisemmin 
 
 
-
-
+### Turun tietojenkalastelukampanja
+[Perjantaina 13. lokakuuta](https://www.turku.fi/uutinen/2023-10-13_turun-kaupungin-tietoturvaa-loukattu-asiasta-tehty-rikosilmoitus) Turun kaupunki ilmoitti nettisivuillaan, että tietojenkalasteluviestejä on lähetetty @turku.fi ja @edu.turku.fi -osoitteista. Huijaussähköposteja lähetettiin sekä organisaation ulko että sisäpuolelle. Joni Ilmanen eli Turun kaupungin IT-palvelujohta kertoo huijausviestien olleen erittäin taitavasti tehtyjä. Ilmasen mukaan viesteissä pyrittiin kalastelemaan ihmisten käyttäjätunnuksia sekä salasanoja eli sähköpostit ovat olleet tyypiltään ns. 'credential harvestereita'.
 
 
 ## Muut merkittävät kyberhyökkäykset
