@@ -59,14 +59,15 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 [Keskiviikkona 4. lokakuuta 2023](https://yle.fi/a/74-20053580) Osuuspankin op.fi-palveluun kohdistettiin palvelunestohyökkäys. Venäläinen hakkeriryhmä Noname057(16) väittää [Telegram-kanavallaan](https://t.me/s/noname05716eng) olleensa hyökkäyksen takana. 
 
 ### Helsingin seudun liikenteen palvelunestohyökkäys
-[Torstai-iltana 5. lokakuuta 2023](https://yle.fi/a/74-20053880) Helsingin seudun liikenteen (HSL) reittiopas oli alhaalla seuraavaan päivään klo 9:15 asti. Informatiopäällikkö *Joona Packalén* kertoo HSL:ään kohdistenuiden palvelunestohyökkäysten määrän kasvaneen merkittävästi vuoden 2023 aikana. Packalénin mukaan tämän mittakaavan hyökkäyksiä ei ole aiemmin kohdistettu HSL:n palveluihin. Palvelunestohyökkäykseen liittyvä verkkoliikenne tuli EU-maiden ulkomailta. Hyökkäys on todennäköisesti Noname057(16) toimesta suoritettu, sillä se viestitti päivää aikaisemmin 
+[Torstai-iltana 5. lokakuuta 2023](https://yle.fi/a/74-20053880) Helsingin seudun liikenteen (HSL) reittiopas oli alhaalla seuraavaan päivään klo 9:15 asti. Informaatiopäällikkö *Joona Packalén* kertoo HSL:ään kohdistuneiden palvelunestohyökkäysten määrän kasvaneen merkittävästi vuoden 2023 aikana. Packalénin mukaan tämän mittakaavan hyökkäyksiä ei ole aiemmin kohdistettu HSL:n palveluihin. Palvelunestohyökkäykseen liittyvä verkkoliikenne tuli EU-maiden ulkomailta. Hyökkäys on todennäköisesti Noname057(16) toimesta suoritettu, sillä se viestitti päivää aikaisemmin 
 
 
 ### Turun tietojenkalastelukampanja
-[Perjantaina 13. lokakuuta](https://www.turku.fi/uutinen/2023-10-13_turun-kaupungin-tietoturvaa-loukattu-asiasta-tehty-rikosilmoitus) Turun kaupunki ilmoitti nettisivuillaan, että tietojenkalasteluviestejä on lähetetty @turku.fi ja @edu.turku.fi -osoitteista. Huijaussähköposteja lähetettiin sekä organisaation ulko että sisäpuolelle. Joni Ilmanen eli Turun kaupungin IT-palvelujohta kertoo huijausviestien olleen erittäin taitavasti tehtyjä. Ilmasen mukaan viesteissä pyrittiin kalastelemaan ihmisten käyttäjätunnuksia sekä salasanoja eli sähköpostit ovat olleet tyypiltään ns. 'credential harvestereita'.
+[Perjantaina 13. lokakuuta](https://www.turku.fi/uutinen/2023-10-13_turun-kaupungin-tietoturvaa-loukattu-asiasta-tehty-rikosilmoitus) Turun kaupunki ilmoitti nettisivuillaan, että tietojenkalasteluviestejä on lähetetty @turku.fi ja @edu.turku.fi -osoitteista. Huijaussähköposteja lähetettiin sekä organisaation ulko- että sisäpuolelle. Joni Ilmanen eli Turun kaupungin IT-palvelujohtaja kertoo huijausviestien olleen erittäin taitavasti tehtyjä. Ilmasen mukaan viesteissä pyrittiin kalastelemaan ihmisten käyttäjätunnuksia sekä salasanoja eli sähköpostit ovat olleet tyypiltään ns. 'credential harvestereita'.
 
 ### Suomen tietomurtoaalto
-[Lauantai 20. lokakuuta](https://www.is.fi/digitoday/tietoturva/art-2000009936173.html) laajasta suomalaisiin kohdistuvasta tietojenkalastelukampanjasta. Hyökkäyksessä ihmisille lähetetään sähköposteja, jotka muistuttavat turvasähköposteja. Sähköposteissa oleva linkki johtaa kuitenkin rikollisten ylläpitämälle sivulle, jossa käyttäjät huijataan syöttämään MIcrosoft-tiliensä tunnuksilla. 
+[Lauantai 20. lokakuuta](https://www.is.fi/digitoday/tietoturva/art-2000009936173.html) laajasta suomalaisiin kohdistuvasta tietojenkalastelukampanjasta. Hyökkäyksessä ihmisille lähetetään sähköposteja, jotka muistuttavat turvasähköposteja. Sähköposteissa oleva linkki johtaa kuitenkin rikollisten ylläpitämälle sivulle, jossa käyttäjät huijataan syöttämään Microsoft-tiliensä tunnuksilla.
+ 
 
 ## Muut merkittävät kyberhyökkäykset
 #### Wannacry-kiristyshaittaohjelma 2017
