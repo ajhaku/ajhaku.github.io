@@ -73,7 +73,7 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 [Perjantaina 20. lokakuuta 2023](https://www.is.fi/digitoday/tietoturva/art-2000009936173.html) laajasta suomalaisiin kohdistuvasta tietojenkalastelukampanjasta. Hyökkäyksessä ihmisille lähetetään sähköposteja, jotka muistuttavat turvasähköposteja. Sähköposteissa oleva linkki johtaa kuitenkin rikollisten ylläpitämälle sivulle, jossa käyttäjät huijataan syöttämään Microsoft-tiliensä tunnuksilla. 
 
 ### Rautavaaran kunnan kyberhyökkäys
-[Maanantai aamuyönä 30. lokakuuta 2023](https://kuntalehti.fi/uutiset/tekniikka/rautavaaralla-korjataan-kyberhyokkayksen-jalkia-hallinnon-tiedostoja-kryptattu/) havaittiin Rautavaaraan verkkopalveluihin kohdistunut kyberhyökkäys. Hyökkääjätaho oli salannut hallintoverkossa olleita tiedostoja ja vaatinut rahaa salauksen purkamista vastaan. 
+[Maanantai aamuyönä 30. lokakuuta 2023](https://kuntalehti.fi/uutiset/tekniikka/rautavaaralla-korjataan-kyberhyokkayksen-jalkia-hallinnon-tiedostoja-kryptattu/) havaittiin Rautavaaraan verkkopalveluihin kohdistunut kyberhyökkäys. Hyökkääjätaho oli salannut hallintoverkossa olleita tiedostoja ja vaatinut rahaa salauksen purkamista vastaan. Hyökkäys onnistuttiin rajaamaan kunnanhallinnon palvelimelle eikä sillä tiettävästi ollut vaikutusta kunnan muihin järjestelmiin.
 
 
 ## Muut merkittävät kyberhyökkäykset
