@@ -25,7 +25,7 @@ Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuiten
 
 ## 2020
 ### Eduskunnan tietomurto
-[Vuoden 2020 syksynä eduskuntaa kohdistettiin tietomurto.](https://yle.fi/a/3-11715912) Keskusrikospoliisin mukaan hyökkääjät olisivat päässeet vaarantamaan eduskunnan sähköpostitilien tietoturvan, mutta tietomurron laajudesta ei kerrottu sen enempää. Suojelupoliisi kertoi 2021 kybervakoilun tulleen Kiinaan liittyvältä taholta ja että kyseessä olisi ryhmä nimeltä APT31, joka on tunnettu kiinalainen valtiollinen toimija. Kansanedustajille annettiin tapahtuneen seurauksena [tietoturvakoulutusta](https://yle.fi/a/3-11767479) ja lisäksi eduskunnan tietoturvaa vahvistettiin.
+[Vuoden 2020 syksynä eduskuntaa kohdistettiin tietomurto.](https://yle.fi/a/3-11715912) Keskusrikospoliisin mukaan hyökkääjät olisivat päässeet vaarantamaan eduskunnan sähköpostitilien tietoturvan, mutta tietomurron laajudesta ei kerrottu sen enempää kuin että osa tilistä kuului kansanedustajille. Suojelupoliisi kertoi 2021 kybervakoilun tulleen Kiinaan liittyvältä taholta ja että kyseessä olisi ryhmä nimeltä APT31, joka on tunnettu kiinalainen valtiollinen toimija. Kansanedustajille annettiin tapahtuneen seurauksena [tietoturvakoulutusta](https://yle.fi/a/3-11767479) ja lisäksi eduskunnan tietoturvaa vahvistettiin.
 
 <!--
 ## 2021
