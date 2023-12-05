@@ -75,6 +75,8 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 ### Rautavaaran kunnan kyberhyökkäys
 [Maanantai aamuyönä 23. lokakuuta 2023](https://kuntalehti.fi/uutiset/tekniikka/rautavaaralla-korjataan-kyberhyokkayksen-jalkia-hallinnon-tiedostoja-kryptattu/) havaittiin Rautavaaraan verkkopalveluihin kohdistunut kyberhyökkäys. Hyökkääjätaho oli salannut hallintoverkossa olleita tiedostoja ja vaatinut rahaa salauksen purkamista vastaan. Hyökkäys onnistuttiin rajaamaan kunnanhallinnon palvelimelle eikä sillä tiettävästi ollut vaikutusta kunnan muihin järjestelmiin.
 
+### Etelä-savon ammattiopiston kyberhyökkäys
+[Torstaina 16. marraskuuta 2023](https://yle.fi/a/74-20062713) Etelä-Savon ammattiopistoon kohdistui kyberhyökkäys. Hyökkäyksessä aiheutui jonkin verran vahinkoja ammattiopiston järjestelmiin, mutta henkilökunnan tai opiskelijoiden tietoja ei vuotanut ulkopuoliselle tahoille. Lieviä järjestelmiin kohdistuneita vahinkoja lukuunottamatta hyökkäyksestä ei ollut merkittävää haittaa ammattiopiston toiminnalle ja sen toiminta palautuikin normaaliksi 28. marraskuuta 2023 alkaen.  
 
 ## Muut merkittävät kyberhyökkäykset
 #### Wannacry-kiristyshaittaohjelma 2017
