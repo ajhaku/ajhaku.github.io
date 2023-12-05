@@ -81,6 +81,9 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 ### Etelä-savon ammattiopiston kyberhyökkäys
 [Torstaina 16. marraskuuta 2023](https://yle.fi/a/74-20062713) Etelä-Savon ammattiopistoon kohdistui kyberhyökkäys. Hyökkäyksessä aiheutui jonkin verran vahinkoja ammattiopiston järjestelmiin, mutta henkilökunnan tai opiskelijoiden tietoja ei vuotanut ulkopuoliselle tahoille. Lieviä järjestelmiin kohdistuneita vahinkoja lukuunottamatta hyökkäyksestä ei ollut merkittävää haittaa ammattiopiston toiminnalle ja sen toiminta palautuikin normaaliksi 22. marraskuuta 2023 alkaen.  
 
+### Kuljetusyhtiö Westlogin tietomurto
+[Elokuussa 2023](https://www.hs.fi/kotimaa/art-2000010031773.html) Westlogin asiakastietoihin päästiin käsiksi hyökkääjän toimeista. Organisaation palvelimelle oli asennettu ransomware-haittaohjelma, joka lukitsi tiedostoja estäen niiden käyttämisen. Tietomurto oli Suomen mittakaavassa uhrimääräältään suurin, sillä yli 166 600 henkilön tiedot vuosivat. Ei ole tarkkaa tietoa siitä, mitä vuotaneet tiedot sisälsivät, mutta niiden joukossa oli ainakin ilmeisesti ihmisten henkilötunnuksia. 
+
 ## Muut merkittävät kyberhyökkäykset
 #### Wannacry-kiristyshaittaohjelma 2017
 [Perjantaina 12. toukokuuta 2017](https://www.ts.fi/uutiset/3511587) useisiin maihin kohdistettiin kyberhyökkäys, joka oli laajudeltaan merkittävä, sillä se vaikutti 150 maan tietojärjestelmiin. Hyökkäyksissä hyödynnettiin vanhempien Windows käyttöjärjestelmien haavoittuvuuksia. Hyökkäys vaikutti laajasti eri toimialueihin hyökkäyksestä kärsivät muun muassa Britannian julkinen terveydenhoitojärjestelmä, Saksan rautatieyhtiö Deutsche Bahn sekä espanjalainen teleoperaattori Telefonica. Lisäksi ranskalaisen autonvalmistaja Renaultin tuotanto keskeytettiin eri puolilla Eurooppaa.
