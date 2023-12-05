@@ -23,6 +23,9 @@ Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuiten
 ### Siuntion tietomurto
 [Torstaina 19. syyskuuta 2019](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec) Siuntion kuntaan kohdistettiin tietomurto. Tietomurroista saaduilla tiedoilla lähetettiin Siuntion kunnan nimissä kalasteluviestejä. Lähetettyjen sähköpostien otsikoissa viitattiin laskuihin ja viestit sisälsivät linkin huijareiden tekemälle sivulle, jonne käyttäjät ohjattiin syöttämään sähköpostitunnuksensa. 
 
+### Kuljetusyhtiö Westlogin tietomurto
+[Elokuussa 2023](https://www.hs.fi/kotimaa/art-2000010031773.html) Westlogiin kohdistettu tietomurto oli uhrimäärältään yksi Suomen historian suurimpia. Noin yli 116 600 ihmisen tiedot ovat vuotaneet. Ei ole tarkasti tiedossa kuinka merkittäviä vuotaneet tiedot ovat olleet, mutta vuotaneiden tietojen joukossa on ainakin ollut ihmisten henkilötunnuksia.   
+
 ## 2020
 ### Eduskunnan tietomurto
 [Vuoden 2020 syksynä eduskuntaa kohdistettiin tietomurto.](https://yle.fi/a/3-11715912) Keskusrikospoliisin mukaan hyökkääjät olisivat päässeet vaarantamaan eduskunnan sähköpostitilien tietoturvan, mutta tietomurron laajudesta ei kerrottu sen enempää kuin että osa vaarantuneista tileistä kuului kansanedustajille. Suojelupoliisi kertoi 2021 kybervakoilun tulleen Kiinaan liittyvältä taholta ja että kyseessä olisi ryhmä nimeltä APT31, joka on tunnettu kiinalainen valtiollinen toimija. Kansanedustajille annettiin tapahtuneen seurauksena [tietoturvakoulutusta](https://yle.fi/a/3-11767479) ja lisäksi eduskunnan tietoturvaa vahvistettiin.
