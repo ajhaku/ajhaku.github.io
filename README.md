@@ -23,9 +23,6 @@ Aluksi vaikutti siltä, että tietomurto ei olisi ollut erityisen vakava. Kuiten
 ### Siuntion tietomurto
 [Torstaina 19. syyskuuta 2019](https://www.kirkkonummensanomat.fi/neo/?app=NeoDirect&com=6%2F159%2F49591%2F84e60230ec) Siuntion kuntaan kohdistettiin tietomurto. Tietomurroista saaduilla tiedoilla lähetettiin Siuntion kunnan nimissä kalasteluviestejä. Lähetettyjen sähköpostien otsikoissa viitattiin laskuihin ja viestit sisälsivät linkin huijareiden tekemälle sivulle, jonne käyttäjät ohjattiin syöttämään sähköpostitunnuksensa. 
 
-### Kuljetusyhtiö Westlogin tietomurto
-[Elokuussa 2023](https://www.hs.fi/kotimaa/art-2000010031773.html) Westlogin asiakastietoihin päästiin käsiksi hyökkääjän toimesta. Organisaation palvelimelle oli asennettu ransomware-haittaohjelma, joka lukitsi tiedostoja estäen niiden käyttämisen. Tietomurto oli uhrimäärältään Suomen suurin, sillä yli 166 600 henkilön tiedot vuosivat. Ei ole tarkkaa tietoa siitä, mitä vuotaneet tiedot sisälsivät, mutta niiden joukossa oli ainakin ilmeisesti ihmisten henkilötunnuksia.  
-
 ## 2020
 ### Eduskunnan tietomurto
 [Vuoden 2020 syksynä eduskuntaa kohdistettiin tietomurto.](https://yle.fi/a/3-11715912) Keskusrikospoliisin mukaan hyökkääjät olisivat päässeet vaarantamaan eduskunnan sähköpostitilien tietoturvan, mutta tietomurron laajudesta ei kerrottu sen enempää kuin että osa vaarantuneista tileistä kuului kansanedustajille. Suojelupoliisi kertoi 2021 kybervakoilun tulleen Kiinaan liittyvältä taholta ja että kyseessä olisi ryhmä nimeltä APT31, joka on tunnettu kiinalainen valtiollinen toimija. Kansanedustajille annettiin tapahtuneen seurauksena [tietoturvakoulutusta](https://yle.fi/a/3-11767479) ja lisäksi eduskunnan tietoturvaa vahvistettiin.
@@ -82,7 +79,8 @@ Hyökkäyksen kohteena tai kohteina olevista järjestelmistä ei kerrottu. Voida
 [Torstaina 16. marraskuuta 2023](https://yle.fi/a/74-20062713) Etelä-Savon ammattiopistoon kohdistui kyberhyökkäys. Hyökkäyksessä aiheutui jonkin verran vahinkoja ammattiopiston järjestelmiin, mutta henkilökunnan tai opiskelijoiden tietoja ei vuotanut ulkopuoliselle tahoille. Lieviä järjestelmiin kohdistuneita vahinkoja lukuunottamatta hyökkäyksestä ei ollut merkittävää haittaa ammattiopiston toiminnalle ja sen toiminta palautuikin normaaliksi 22. marraskuuta 2023 alkaen.  
 
 ### Kuljetusyhtiö Westlogin tietomurto
-[Elokuussa 2023](https://www.hs.fi/kotimaa/art-2000010031773.html) Westlogin asiakastietoihin päästiin käsiksi hyökkääjän toimeista. Organisaation palvelimelle oli asennettu Akira-niminen ransomware-haittaohjelma, joka lukitsi tiedostoja estäen niiden käyttämisen. Tietomurto oli Suomen mittakaavassa uhrimääräältään suurin, sillä yli 166 600 henkilön tiedot vuosivat. Edellinen vastaavan mittakaavan tapaus oli vastaamon tietomurto, jossa hyökkääjä pääsi käsiksi yli 30 000 ihmisen potilastietoihin. Ei ole tarkkaa tietoa siitä, mitä vuotaneet tiedot sisälsivät, mutta niiden joukossa oli ainakin ilmeisesti ihmisten henkilötunnuksia. Hyökkäyksessä käytettiin Akira-nimistä kiristyshaittaohjelmaa. 
+[Elokuussa 2023](https://www.hs.fi/kotimaa/art-2000010031773.html) Westlogin asiakastietoihin päästiin käsiksi hyökkääjän toimesta. Organisaation palvelimelle oli asennettu Akira-niminen ransomware-haittaohjelma, joka lukitsi tiedostoja estäen niiden käyttämisen. Tietomurto oli uhrimäärältään Suomen suurin, sillä yli 166 600 henkilön tiedot vuosivat. Edellinen vastaavan mittakaavan tapaus oli vastaamon tietomurto, jossa hyökkääjä pääsi käsiksi yli 30 000 ihmisen potilastietoihin. Ei ole tarkkaa tietoa siitä, mitä vuotaneet tiedot sisälsivät, mutta niiden joukossa oli ainakin ilmeisesti ihmisten henkilötunnuksia. Hyökkäyksessä käytettiin Akira-nimistä kiristyshaittaohjelmaa. 
+
 
 ## Muut merkittävät kyberhyökkäykset
 #### Wannacry-kiristyshaittaohjelma 2017
